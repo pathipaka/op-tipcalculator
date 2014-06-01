@@ -2,4 +2,4 @@ op-tipcalculator
 ================
 
 
-![alt tag](op-tipcalculator-2.png)
+![alt tag](op-tipcalculator2.png)
